@@ -1,0 +1,23 @@
+{
+  "name": "banzai-twitter-tracker",
+  "version": "1.0.0",
+  "description": "Twitter stream monitor to track top follower engagement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjfeore/banzai-twitter-tracker.git"
+  },
+  "author": "James Feore",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jjfeore/banzai-twitter-tracker/issues"
+  },
+  "homepage": "https://github.com/jjfeore/banzai-twitter-tracker#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "twitter": "^1.7.1"
+  }
+}
